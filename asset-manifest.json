@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mov-inc-xor/react-table/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/mov-inc-xor/react-table/static/js/main.fb40bd40.chunk.js",
-    "main.js.map": "/mov-inc-xor/react-table/static/js/main.fb40bd40.chunk.js.map",
-    "runtime-main.js": "/mov-inc-xor/react-table/static/js/runtime-main.2359444e.js",
-    "runtime-main.js.map": "/mov-inc-xor/react-table/static/js/runtime-main.2359444e.js.map",
-    "static/js/2.ea2edad1.chunk.js": "/mov-inc-xor/react-table/static/js/2.ea2edad1.chunk.js",
-    "static/js/2.ea2edad1.chunk.js.map": "/mov-inc-xor/react-table/static/js/2.ea2edad1.chunk.js.map",
-    "static/js/3.28ff4b76.chunk.js": "/mov-inc-xor/react-table/static/js/3.28ff4b76.chunk.js",
-    "static/js/3.28ff4b76.chunk.js.map": "/mov-inc-xor/react-table/static/js/3.28ff4b76.chunk.js.map",
-    "index.html": "/mov-inc-xor/react-table/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/mov-inc-xor/react-table/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ea2edad1.chunk.js.LICENSE.txt": "/mov-inc-xor/react-table/static/js/2.ea2edad1.chunk.js.LICENSE.txt"
+    "main.css": "/react-table/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-table/static/js/main.fb40bd40.chunk.js",
+    "main.js.map": "/react-table/static/js/main.fb40bd40.chunk.js.map",
+    "runtime-main.js": "/react-table/static/js/runtime-main.07dd1191.js",
+    "runtime-main.js.map": "/react-table/static/js/runtime-main.07dd1191.js.map",
+    "static/js/2.ea2edad1.chunk.js": "/react-table/static/js/2.ea2edad1.chunk.js",
+    "static/js/2.ea2edad1.chunk.js.map": "/react-table/static/js/2.ea2edad1.chunk.js.map",
+    "static/js/3.28ff4b76.chunk.js": "/react-table/static/js/3.28ff4b76.chunk.js",
+    "static/js/3.28ff4b76.chunk.js.map": "/react-table/static/js/3.28ff4b76.chunk.js.map",
+    "index.html": "/react-table/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-table/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ea2edad1.chunk.js.LICENSE.txt": "/react-table/static/js/2.ea2edad1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2359444e.js",
+    "static/js/runtime-main.07dd1191.js",
     "static/js/2.ea2edad1.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.fb40bd40.chunk.js"
